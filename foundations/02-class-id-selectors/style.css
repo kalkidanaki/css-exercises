@@ -1,0 +1,23 @@
+.first
+{
+    background-color: rgb(180, 39, 93);
+    font-family: (Verdana, 'DejaVu Sans', sans-serif) ;
+}
+
+#first-id
+{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.cooler
+{
+    font-size: 24px;
+}
+
+#another-id
+{
+background-color: rgb(74, 180, 109);
+font-size: 24px;
+font-weight: bold;
+}
